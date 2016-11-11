@@ -1,0 +1,5 @@
+Switch enable
+Switch# configure terminal
+Switch(config)# vlan 100
+Switch(config-vlan)# name VLAN100
+Switch(config-vlan)# exit
